@@ -1,6 +1,21 @@
-# File-Handling-and-Exception-Handling-Assignment
-File Read & Write Challenge 🖋️: Create a program that reads a file and writes a modified version to a new file.
-Error Handling Lab 🧪: Ask the user for a filename and handle errors if it doesn’t exist or can’t be read.
-Outcomes 🎉
+1. Define a function to read from a file:
+   - Open the input file in read mode.
+   - Read the contents of the file.
+   - Store the contents in a variable.
+   - Close the input file.
 
-By the end of this module, you’ll be skilled in managing files efficiently in Python, ensuring error-free code that gracefully handles unexpected issues. Mastering files and exception handling will allow you to build strong, robust applications!
+2. Define a function to modify the content:
+   - Apply any desired modification (e.g., change text format, add additional information).
+   - Store the modified content in a new variable.
+
+3. Define a function to write to a new file:
+   - Open a new file in write mode.
+   - Write the modified content into the new file.
+   - Close the output file.
+
+4. Call the functions in sequence:
+   - Read the original file's contents.
+   - Modify the content.
+   - Write the modified content to a new file.
+
+5. Print a success message to confirm completion.
