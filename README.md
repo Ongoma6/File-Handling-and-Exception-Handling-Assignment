@@ -1,3 +1,4 @@
+# File-Handling-and-Exception-Handling-Assignment
 1. Define a function to read from a file:
    - Open the input file in read mode.
    - Read the contents of the file.
